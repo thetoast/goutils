@@ -1,4 +1,4 @@
-package fileutil
+package goutils
 
 import (
     "bufio"
